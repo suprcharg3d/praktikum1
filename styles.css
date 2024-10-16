@@ -4,6 +4,14 @@ h1 {
 h4 {
     font-family: Boston;
 }
+img {
+    height: 100%;
+    object-fit: contain;
+    max-height: 100%;
+    max-width: 100%;    
+    display: block;
+    margin: auto auto;
+ }
 @font-face {
     font-family: PlatinumSign;
     src: url('asset/platinum_sign/Platinum Sign Over.ttf');
