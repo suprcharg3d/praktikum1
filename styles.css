@@ -1,0 +1,14 @@
+h1 {
+    font-family: PlatinumSign;
+}
+h4 {
+    font-family: Boston;
+}
+@font-face {
+    font-family: PlatinumSign;
+    src: url('asset/platinum_sign/Platinum Sign Over.ttf');
+}
+@font-face {
+    font-family: Boston;
+    src: url('asset/boston/BOSTON CAPS.otf');
+}
